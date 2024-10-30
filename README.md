@@ -7,7 +7,7 @@
 This project aims to predict the score of an innings in an IPL (Indian Premier League) match using various machine learning techniques. By analyzing historical IPL data, the model forecasts the score based on parameters such as current score, overs, and other in-game features.
 
 ![Project Overview](https://github.com/LearnCode801/IPL-score-prediction/blob/main/Screenshot%202024-10-30%20132355.png)  
-*An illustration of the project pipeline.*
+*Web App Image.*
 
 ## Objectives
 
